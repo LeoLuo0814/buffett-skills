@@ -4,6 +4,9 @@
 
 A collection of Claude Code skills built around Warren Buffett's investment framework.
 
+
+<video src="bft.mp4" controls width="600"></video>
+
 ## Skills
 
 ### `buffett` — Buffett Investment Thinking System
